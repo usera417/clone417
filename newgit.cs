@@ -8,5 +8,5 @@ public static class newgit{
 	   else
 		   return b;
    }
-
+   print('hello word')
 }
